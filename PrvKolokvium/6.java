@@ -15,7 +15,6 @@
     R: [id:5 места од лево] [color:10 места од десно] [weight:10.2 места од десно] ако е правоаголник
 Користење на instanceof ќе се смета за неточно решение*/
 
-//package kolokviusmski1.shesta;
 
 import java.util.List;
 import java.util.Scanner;
