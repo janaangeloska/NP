@@ -13,7 +13,6 @@
     public Map<Integer,Integer> getGradeDistribuition() - враќа мапа од оценките (5,6,7,8,9,10) со бројот на студенти кои ја добиле соодветната оценка.
     public void printStatistics() - печати основни статистики за вкупните поени (min,max,average,count) за сумарните поени на сите положени студенти.*/
 
-//  package kolokviumski2_ispitni._31;
 
 import java.util.*;
 import java.util.stream.Collectors;
@@ -22,7 +21,7 @@ import java.util.stream.IntStream;
 class Student{
     String index;
     String name;
-    //mesto posebno kje chuvame mapa na activities
+    //namesto posebno kje chuvame mapa na activities
     Map<String,Integer> activities;
     public Student(String index, String name) {
         this.index = index;
