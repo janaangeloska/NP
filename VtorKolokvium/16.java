@@ -11,8 +11,6 @@
 */
 
 
-// package kolokviumski2_ispitni._16;
-
 import java.util.*;
 import java.util.stream.Collectors;
 
